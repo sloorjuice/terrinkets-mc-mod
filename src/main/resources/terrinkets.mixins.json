@@ -3,7 +3,8 @@
 	"package": "sloor.terrinkets.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ClientPlayerEntityMixin"
+		"ClientPlayerEntityMixin",
+		"HungerManagerAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1

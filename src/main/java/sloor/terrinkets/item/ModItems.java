@@ -17,6 +17,8 @@ public class ModItems {
     public static final Item DRILL_BIT = registerItem("drill_bit", DrillBitItem::new);
     public static final Item SUPER_RABBITS_FOOT = registerItem("super_rabbits_foot", SuperRabbitsFootItem::new);
     public static final Item CLOUD_IN_A_BOTTLE = registerItem("cloud_in_a_bottle", CloudInABottleItem::new);
+    public static final Item LUCKY_HORSESHOE = registerItem("lucky_horseshoe", LuckyHorseshoeItem::new);
+    public static final Item SENTIENT_CAKE = registerItem("sentient_cake", SentientCakeItem::new);
 
     private static Item registerItem(String name, java.util.function.Function<Item.Settings, Item> itemFactory) {
         // Fix: Use Registries.ITEM and Identifier.of()

@@ -11,6 +11,8 @@
   "item.terrinkets.super_rabbits_foot.tooltip": "Double your base jump height",
   "item.terrinkets.cloud_in_a_bottle": "Cloud in a Bottle",
   "item.terrinkets.cloud_in_a_bottle.tooltip": "Allows for double jump",
+  "item.terrinkets.sentient_cake": "Sentient Cake",
+  "item.terrinkets.sentient_cake.tooltip": "Gives you a little nibble of cake every few moments to slow down your hunger",
   "tooltip.terrinkets.equippable": "Trinket: Benefits applied while in inventory",
   "filled_map.trinket_shrine": "Trinket Shrine Map"
 }
