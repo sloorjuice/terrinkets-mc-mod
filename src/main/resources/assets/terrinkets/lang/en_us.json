@@ -1,7 +1,13 @@
 {
   "item.terrinkets.hermes_boots": "Hermes Boots",
+  "item.terrinkets.hermes_boots.tooltip": "Increases movement speed",
   "item.terrinkets.heart_crystal": "Heart Crystal",
+  "item.terrinkets.heart_crystal.tooltip": "Doubles your maximum health",
   "item.terrinkets.bone_extensions": "Bone Extensions",
+  "item.terrinkets.bone_extensions.tooltip": "Extend your reach",
   "item.terrinkets.drill_bit": "Drill Bit",
-  "item.terrinkets.super_rabbits_foot": "Super Rabbit's Foot"
+  "item.terrinkets.drill_bit.tooltip": "Massively increases mining speed",
+  "item.terrinkets.super_rabbits_foot": "Super Rabbit's Foot",
+  "item.terrinkets.super_rabbits_foot.tooltip": "Double your base jump height",
+  "tooltip.terrinkets.equippable": "Trinket: Benefits applied while in inventory"
 }
