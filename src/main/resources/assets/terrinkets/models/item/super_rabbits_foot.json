@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "terrinkets:item/super_rabbits_foot"
+  }
+}

@@ -30,6 +30,10 @@ public class Terrinkets implements ModInitializer {
 
 		ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {
 			content.add(ModItems.HERMES_BOOTS);
+			content.add(ModItems.BONE_EXTENSIONS);
+			content.add(ModItems.HEART_CRYSTAL);
+			content.add(ModItems.DRILL_BIT);
+			content.add(ModItems.SUPER_RABBITS_FOOT);
 		});
 	}
 }

@@ -24,6 +24,7 @@ public class HeartCrystalItem extends BaseTrinketItem {
                     HEART_CRYSTAL_HEALTH_ID, 1.0, EntityAttributeModifier.Operation.ADD_MULTIPLIED_BASE
             ));
         }
+        player.setHealth(40.0f);
     }
 
     @Override
