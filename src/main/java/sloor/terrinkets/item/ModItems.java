@@ -12,6 +12,7 @@ public class ModItems {
 
     // Register Hermes Boots
     public static final Item HERMES_BOOTS = registerItem("hermes_boots", HermesBootsItem::new);
+    public static final Item HEART_CRYSTAL = registerItem("heart_crystal", HeartCrystalItem::new);
 
     private static Item registerItem(String name, java.util.function.Function<Item.Settings, Item> itemFactory) {
         // Fix: Use Registries.ITEM and Identifier.of()
