@@ -10,7 +10,8 @@
         { "type": "minecraft:item", "name": "terrinkets:bone_extensions", "weight": 10 },
         { "type": "minecraft:item", "name": "terrinkets:sentient_cake", "weight": 10 },
         { "type": "minecraft:item", "name": "terrinkets:lucky_horseshoe", "weight": 10 },
-        { "type": "minecraft:item", "name": "terrinkets:cloud_in_a_bottle", "weight": 10 }
+        { "type": "minecraft:item", "name": "terrinkets:cloud_in_a_bottle", "weight": 10 },
+        { "type": "minecraft:item", "name": "terrinkets:regen_necklace", "weight": 10 }
       ]
     },
     {

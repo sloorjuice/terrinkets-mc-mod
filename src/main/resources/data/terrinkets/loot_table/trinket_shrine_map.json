@@ -12,8 +12,8 @@
               "destination": "terrinkets:trinket_shrine",
               "decoration": "minecraft:target_point",
               "zoom": 2,
-              "search_radius": 100,
-              "skip_existing_chunks": true
+              "search_radius": 1000,
+              "skip_existing_chunks": false
             },
             {
               "function": "minecraft:set_name",
