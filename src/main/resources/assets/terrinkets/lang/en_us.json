@@ -11,8 +11,12 @@
   "item.terrinkets.super_rabbits_foot.tooltip": "Double your base jump height",
   "item.terrinkets.cloud_in_a_bottle": "Cloud in a Bottle",
   "item.terrinkets.cloud_in_a_bottle.tooltip": "Allows for double jump",
+  "item.terrinkets.lucky_horseshoe": "Lucky Horseshoe",
+  "item.terrinkets.lucky_horseshoe.tooltip": "Completely removes fall damage",
   "item.terrinkets.sentient_cake": "Sentient Cake",
   "item.terrinkets.sentient_cake.tooltip": "Gives you a little nibble of cake every few moments to slow down your hunger",
+  "item.terrinkets.regen_necklace": "Regen Necklace",
+  "item.terrinkets.regen_necklace.tooltip": "Improves your regeneration speed and how hungry you can get",
   "tooltip.terrinkets.equippable": "Trinket: Benefits applied while in inventory",
   "filled_map.trinket_shrine": "Trinket Shrine Map"
 }

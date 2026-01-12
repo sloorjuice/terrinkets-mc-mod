@@ -47,6 +47,7 @@ public class Terrinkets implements ModInitializer {
 			content.add(ModItems.CLOUD_IN_A_BOTTLE);
 			content.add(ModItems.LUCKY_HORSESHOE);
 			content.add(ModItems.SENTIENT_CAKE);
+			content.add(ModItems.REGEN_NECKLACE);
 		});
 
 		LootTableEvents.MODIFY.register((key, tableBuilder, source, registries) -> {
