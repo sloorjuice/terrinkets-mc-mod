@@ -20,6 +20,7 @@ public class ModItems {
     public static final Item LUCKY_HORSESHOE = registerItem("lucky_horseshoe", LuckyHorseshoeItem::new);
     public static final Item SENTIENT_CAKE = registerItem("sentient_cake", SentientCakeItem::new);
     public static final Item REGEN_NECKLACE = registerItem("regen_necklace", RegenNecklaceItem::new);
+    public static final Item OXYGEN_TANK =  registerItem("oxygen_tank", OxygenTankItem::new);
 
     private static Item registerItem(String name, java.util.function.Function<Item.Settings, Item> itemFactory) {
         // Fix: Use Registries.ITEM and Identifier.of()
